@@ -1,0 +1,137 @@
+
+#division{
+    background-color: darkslategrey;
+    
+    
+}
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color:antiquewhite;
+    
+}
+.navbar-nav{
+    margin-left:70%;
+}
+
+#sobre{
+    padding-top:10%;
+    color: antiquewhite;
+    font-size:50px;
+    padding-left:130px;
+}
+#informacion{
+    margin-left:130px;
+}
+#infopersonal{
+    display:none;
+    max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+  font-size: medium;
+    color:antiquewhite;
+    margin-right:50%;
+    background-color: black;
+}
+.icono{
+width:50px;
+height:50px;
+}
+#carta1,#carta2{
+display:inline-block;
+vertical-align: top;
+height:250px;
+background-color:grey;
+}
+#servicios{
+    margin-left:250px;
+    
+    
+    
+}
+#serv{
+    padding-left:200px;
+    padding-bottom:30px;
+    color:antiquewhite;
+    
+}
+
+
+
+.card-title{
+    color: antiquewhite;
+}
+footer{
+    background-color:black;
+    color:antiquewhite;
+    display:flex;
+    
+    
+    
+    
+    margin-top:40%;
+}
+#iconowhat, #iconocorreo{
+    width: 40px;
+    height: 40px;
+}
+#infocon{
+    font-size:large;
+    margin-top: 40px;
+}
+
+
+#correoywhatsapp{
+    margin-right:600px;
+}
+
+#w{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+#c{
+    display: flex;
+    align-items: center;
+}
+#iconowhat{
+    margin-top:5px;
+}
+#correoelec{
+margin-top:5px;
+}
+#minum{
+margin-top: 10px;
+}
+
+#linkedin{
+    width: 60px;
+    height: 60px;
+    cursor:pointer;
+    margin-top:30px;
+}
+#mifoto{
+    width: 60px;
+    height: 60px;
+    cursor:pointer;
+   margin-top:30px;
+}
+#linkedinyfoto,#infocon,#nombreapellido,#correoywhatsapp{
+margin-right: 100px;
+}
+#nombreapellido{
+    margin-top:30px;
+    font-size: large;
+}
+#linkedin,#mifoto{
+    margin-right:20px;
+}
+#boot{
+    margin-top:15px;
+
+}
+#fondoazul{
+height:400px;
+margin-top:200px;
+}
